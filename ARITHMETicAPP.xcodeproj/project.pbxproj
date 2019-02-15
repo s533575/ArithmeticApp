@@ -14,6 +14,7 @@
 		3FF8708F221660B900AFE0E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF8708D221660B900AFE0E5 /* LaunchScreen.storyboard */; };
 		3FF8709A221660B900AFE0E5 /* ARITHMETicAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF87099221660B900AFE0E5 /* ARITHMETicAPPTests.swift */; };
 		3FF870A5221660BA00AFE0E5 /* ARITHMETicAPPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF870A4221660BA00AFE0E5 /* ARITHMETicAPPUITests.swift */; };
+		3FF870B32216655800AFE0E5 /* ExerciseCoach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF870B22216655800AFE0E5 /* ExerciseCoach.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3FF870A0221660B900AFE0E5 /* ARITHMETicAPPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARITHMETicAPPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FF870A4221660BA00AFE0E5 /* ARITHMETicAPPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARITHMETicAPPUITests.swift; sourceTree = "<group>"; };
 		3FF870A6221660BA00AFE0E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FF870B22216655800AFE0E5 /* ExerciseCoach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseCoach.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3FF8708B221660B900AFE0E5 /* Assets.xcassets */,
 				3FF8708D221660B900AFE0E5 /* LaunchScreen.storyboard */,
 				3FF87090221660B900AFE0E5 /* Info.plist */,
+				3FF870B22216655800AFE0E5 /* ExerciseCoach.swift */,
 			);
 			path = ARITHMETicAPP;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FF87087221660B800AFE0E5 /* ViewController.swift in Sources */,
+				3FF870B32216655800AFE0E5 /* ExerciseCoach.swift in Sources */,
 				3FF87085221660B800AFE0E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
